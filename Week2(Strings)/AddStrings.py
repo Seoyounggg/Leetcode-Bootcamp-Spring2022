@@ -18,5 +18,3 @@ class Solution:
         for num in num2:
             num2_res = num2_res * 10 + num_dict[num]
         return str(num1_res + num2_res)
-
-# Using ord
